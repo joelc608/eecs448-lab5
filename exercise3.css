@@ -1,0 +1,37 @@
+body {
+	background-image: url("https://img.freepik.com/free-vector/blue-pink-halftone-background_53876-99004.jpg?w=2000");
+	background-repeat: no-repeat;
+  }
+
+
+
+h1 {
+	background-color: #1dd15b;
+	font-family: "Arial";
+	font-size: "22pt";
+	color: white;
+  }
+
+h2 {
+	background-color: #1a7329;
+	font-family: "Arial";
+	font-size: "16pt";
+	color: white;
+   }
+
+p {
+	font-family: "Arial";
+  }
+
+p.bio {
+	font-family: "serif";
+  }
+
+a {
+	background-color: blue;
+	color: white;
+}
+
+a:hover {
+   color: red;
+}

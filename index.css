@@ -1,0 +1,45 @@
+body {
+	margin: 0px;
+}
+
+h1 {
+	background-color: #2d1694;
+	color: #ffffff;
+	font-family: "Verdana";
+}
+
+button {
+	font-family: "Arial";
+	font-size: 18px;
+	color: #1b4585;
+}
+
+button:hover {
+	color: #02e5ed;
+	
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #00356B;
+}
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+.text {
+	position: absolute;
+	top: 50%;
+	right: 50%;
+	transform: translate(50%,-50%);
+	color: $text;
+	max-width: 90%;
+	padding: 2em 3em;
+	background: rgba(0, 0, 0, 0.4);
+	text-shadow: 0px 0px 2px #131415;
+	font-family: 'Open Sans', sans-serif;
+}
